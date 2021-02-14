@@ -1,4 +1,5 @@
 ---
+layout: default_raylib
 title: "hb-raylib"
 ---
 
