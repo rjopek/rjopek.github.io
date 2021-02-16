@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_raylib
 title: module shapes
 permalink: shapes
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_raylib
 title: module core
 permalink: core
 ---
