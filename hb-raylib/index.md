@@ -11,8 +11,8 @@ title: "hb-raylib"
 
 View the project on [GitHub](https://github.com/rjopek/hb-raylib)
 
-> - [module: core](core "module: core")
-> - [module: shapes](shapes "module: shapes")
+> - [module: core](core.html "module: core")
+> - [module: shapes](shapes.md "module: shapes")
 > - [module: textures](textures "module: textures")
 > - [module: text](text "module: text")
 > - [module: models](models "module: models")
