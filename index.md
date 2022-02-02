@@ -3,4 +3,8 @@ layout: default
 title: "Harbour"
 ---
 
-<div style="text-align:center"><a href="https://github.com/rjopek"><img src="assets/img/harbour.svg" /></a></div>
+[![](assets/img/harbour.svg)](https://github.com/rjopek)
+
+---
+
+[![](assets/img/glfw-cairo.svg)](https://github.com/rjopek/gl)
