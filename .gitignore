@@ -3,15 +3,3 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-vendor
-
-# Harbour
-*.exe
-*.bak
-*.hbx
-*.log
-lib
-tmp
-extras
-Gemfile
-Gemfile.lock
