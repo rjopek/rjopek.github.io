@@ -48,7 +48,7 @@ html, body {
    opacity: 0.3;
 }
 
-.fa-github, .fa-facebook, .fa-twitter, .fa-paypal, .fa-envelope {
+.fa-github, .fa-gitlab, .fa-facebook, .fa-twitter, .fa-paypal, .fa-envelope {
    background-color: rgba(0, 51, 51, 0.2);
    color: #e5eaea;
 }
