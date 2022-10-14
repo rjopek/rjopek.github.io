@@ -3,7 +3,7 @@ html, body {
    background-color: #000;
    height: 100%;
    margin: 0;
-   font-family: -apple-system, BlinkMacSystemFont, "FreeMono, Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+   font-family: "FreeMono, Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 * {
